@@ -1,4 +1,4 @@
-const word = ['s','a','n','g','u','i','n','o','l','a','n','t'];
+const word = ['p','s','y','c','h','o','p','a','t','h','e'];
 let tab = [];
 let val;
 let flag = 0;
