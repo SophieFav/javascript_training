@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:900');
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color:#000;
+    text-align:center;
+}
+
+.head{
+    padding-top:30px;
+
+}
+
+img{
+    width:250px;
+}
+
+
+.input:nth-child(3){
+    padding-top:10px;
+}
+
+
+h1{
+    text-transform:uppercase;
+	color:#fff;
+
+}
+
+h3{
+    text-transform: uppercase;
+	color:#ff001e;
+}
+
+
+.letter{
+    display:flex;
+    justify-content:center;
+    font-size:30px;
+    
+}
+
+span{
+    background-color:#fff;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+    padding-top:10px;
+    margin:5px;
+    color:#000;
+}
+#clavier td {
+	background-color:white;
+	border:2px solid #000;
+	width:25px;
+	height:25px;
+	text-align:center;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+
+.input{
+    margin-top:50px;
+}
+
+.lien{
+    margin-top:30px;
+}
+
+a{
+    text-decoration:none;
+    color:#fff;
+    text-transform: uppercase;
+    background-color:#ff001e;
+    padding:15px;
+    padding-left:45px;
+    padding-right:45px;
+}
+
